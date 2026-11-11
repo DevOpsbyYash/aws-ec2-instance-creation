@@ -47,7 +47,6 @@ maintaining physical hardware.
 
 First, I logged in to the AWS Management Console using my AWS account
 credentials.
-
 I selected the AWS Region where I wanted to launch my EC2 instance.
 
 ## Step 2: Open the EC2 Dashboard
